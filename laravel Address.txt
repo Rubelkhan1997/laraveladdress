@@ -1,0 +1,63 @@
+Narnia paravel form Laravel
+
+1..1071 Specified key (Creating Table) 
+
+2..php timezone(search)
+ ..https://www.php.net/manual/en/timezones.php 
+
+3..date format php(search)
+ ..https://www.php.net/manual/en/function.date.php
+
+4..carbon nesbot(search)
+ ..https://carbon.nesbot.com/docs/
+
+5..laravel(search)
+ ..https://laravel.com/docs/5.8/eloquent#querying-soft-deleted-models
+
+6..image intervention(search)
+ ..http://image.intervention.io/
+
+7..jquery window location href(search)
+
+8..jquery addition of two numbers ->google Search
+  ..parsefloat jquery
+
+9..Country city database sql github(search)
+  ..github -d5hn/country-states-cities-database
+
+10.Larabel.com
+ ..X Csrf (search)
+
+11.https://github.com/shohanean
+
+12.stripe (prament Getway)
+  ..https://stripe.com/
+
+13.Sanbox stripe(search)
+  ..test|stripe
+
+14.Stripe laravel itsoulation(search)
+
+-----------------------------------------------
+window.location.href = "{{ url('cart') }}" + "/" + coupon_name;
+
+  $('#personal').click(function(){
+          var personal = parseFloat(0);
+          $('#shipping').html(personal);
+          var discount_total = parseFloat($('#discount_total').html());
+          var total_amount = personal + discount_total;
+          $('#dalivery_charge_total').html(parseFloat(total_amount).toFixed(2));
+
+        });
+
+
+Dashbord 
+-------------------------
+
+1.Vendor->Laravel->Framework->src->IIluminate->Ruting->Router.php->Auth (ctrl+f)
+2.LoginController->AuthenticatesUsers(ctrl+p)-> showLoginForm() // logout
+3.sendLoginResponse(ctrl+f)->redirectPath(Foundation-> Atuh->RedirectsUsers.php)
+
+RedirectsUsers Change Link Name()
+LoginController Change Link Name()
+Web Change Link Name()

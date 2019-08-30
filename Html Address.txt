@@ -1,0 +1,62 @@
+///////////////// Color Link\\\\\\\\\\\\\\\\\\\\\\\
+1..color palette(Search)
+ ..image
+
+///////////////// Plugin Link\\\\\\\\\\\\\\\\\\\\\\\
+
+1..jQuery all version(Search)
+ ..www.jquery.com
+   .. 1.12.4
+
+2.lokesh dhaker(Search)
+ ..light box
+
+3..VenBox js(Search)
+ ..Veno.es ->GitHup
+
+4..isotope(Search)
+ ..www.isotope.metafizzy.co
+
+5..codepen(Search)
+  ..codepen.io(Search)->preloder
+  ..particles (Search)->
+
+6..counterup(Search)
+ ..github.com/bfintal
+
+7..counter up cdn(Search)
+
+8..slick slider(Search) 
+ ..Kenwheeler.github.io/slick/ (Click) ->get it now
+
+wow js(Search)
+Animate css(Search)
+wow slider(Search)
+
+9..codepen(Search)
+ ..codepen.io(Search)->typed js
+
+10..flaticon(Search)(font)
+  ..www.flaticon.com
+
+11..clippath(Sarch)(Banner Style)
+
+12..ytplayer(Search)
+ ..github-pupunzi.mb
+
+
+
+13..HTML Validator(Search)
+14..CSS Validator(Search)
+
+
+
+
+
+
+
+
+
+
+
+
